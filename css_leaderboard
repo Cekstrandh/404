@@ -1,0 +1,54 @@
+/* block gradient bg: */
+
+
+
+/* 404: */
+font-family: Silkscreen;
+font-size: 96px;
+color: #CBC9CC;
+text-align: right;
+
+/* jtech 4 ever <3: */
+font-family: Silkscreen;
+font-size: 24px;
+color: #837D85;
+text-align: right;
+
+
+/* leaderboard: */
+font-family: Silkscreen;
+font-size: 48px;
+color: #3F3B40;
+text-align: right;
+
+/* Rectangle: */
+background: #F0F0ED;
+border: 1px solid #979797;
+box-shadow: 0 7px 13px 0 #50504E;
+
+/* Rectangle focus: */
+background: rgba(216,216,216,0.73);
+border: 3px solid #FF0000;
+
+/* name: and score */
+font-family: Silkscreen;
+font-size: 18px;
+color: #5F5F5C;
+text-align: right;
+
+/* wow you did it!: */
+font-family: Silkscreen;
+font-size: 36px;
+color: #FF0000;
+text-align: center;
+
+/* Enter your name: _: */
+font-family: Silkscreen;
+font-size: 36px;
+color: #6F6F6C;
+
+/* or Press enter to pl: */
+font-family: Silkscreen;
+font-size: 36px;
+color: #858584;
+text-align: center;
